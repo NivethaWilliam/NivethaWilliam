@@ -7,7 +7,7 @@
 
 **Aspiring Data Analyst | Excel | SQL | Power BI | Business Analytics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-william-417723351/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-william-417729351/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivethaWilliam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivetha.william13@gmail.com)
 
@@ -157,7 +157,7 @@ My goal is to combine domain expertise with Excel, SQL, and Power BI to transfor
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nivetha-william-417723351/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nivetha-william-417729351/)
 - 🐙 **GitHub:** [Explore my repositories](https://github.com/NivethaWilliam)
 - 📧 **Email:** [Get in touch](mailto:nivetha.william13@gmail.com)
 
